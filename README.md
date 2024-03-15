@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gshano
-- 👀 I’m interested in advancing my knowledge
+- 👀 Always Seeking New knowledge
 - 🌱 I’m currently C/C++
 - 📫 Gmail: garenshanoian30@gmail.com
 - 😄 Pronouns: He/Him
