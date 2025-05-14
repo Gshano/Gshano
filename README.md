@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gshano
 - 👀 Always Seeking New knowledge
 - 🌱 I’m currently C/C++
-- 📫 Gmail: garenshanoian30@gmail.com
+- 📫 Email: garenshanoian30@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
