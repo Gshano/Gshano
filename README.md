@@ -20,10 +20,9 @@ See all my projects in the [Repositories](https://github.com/yourusername?tab=re
 ---
 
 ## 📫 How to Reach Me
-- 📧 [Your Email]
-- 🌐 [LinkedIn Profile]
-- 🧠 [Personal Website] (if you make one with GitHub Pages)
-
+- 📧 garenshanoian30@gmail.com
+- 🌐 https://www.linkedin.com/in/garen-shanoian-8222b6278/
+  
 ---
 
 ## 📈 GitHub Stats *(optional)*
