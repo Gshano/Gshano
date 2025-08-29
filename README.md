@@ -28,6 +28,6 @@ See all my projects in the [Repositories](https://github.com/Gshano?tab=reposito
 
 ## 📈 GitHub Stats *(optional)*
 
-![Garen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&count_private=true)
+![Garen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshano&show_icons=true&hide=stars&count_private=true)
 
 
