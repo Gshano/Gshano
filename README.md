@@ -10,24 +10,14 @@ I'm a third-year Electrical Engineering student at Toronto Metropolitan Universi
 
 See all my projects in the [Repositories](https://github.com/Gshano?tab=repositories) tab.
 
----
-
 ## 💡 Interests
 - Embedded Systems & IoT
 - PCB Design & Schematic Capture
 - Cybersecurity & Digital Systems
 - Python, C++, and low-level programming
 
----
-
 ## 📫 How to Reach Me
 - 📧 garenshanoian30@gmail.com
 - 🌐 https://www.linkedin.com/in/garen-shanoian-8222b6278/
   
----
-
-## 📈 GitHub Stats *(optional)*
-
-![Garen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshano&show_icons=true&hide=stars&count_private=true)
-
 
