@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Garen Shanoian
+## 👋 Hi there
 
 I'm a 3rd year Electrical Engineering student at Toronto Metropolitan University with a strong interest in .....
 
