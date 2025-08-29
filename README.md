@@ -8,7 +8,7 @@ I'm a third-year Electrical Engineering student at Toronto Metropolitan Universi
 - **ESP32 Power Monitor** – A home-built power consumption logger using ESP32 and a CT sensor.
 - **Power Supply PCB Board** – Working on designing a power supply PCB board from scratch on Altium ECAD software.
 
-See all my projects in the [Repositories](https://github.com/yourusername?tab=repositories) tab.
+See all my projects in the [Repositories](https://github.com/Gshano?tab=repositories) tab.
 
 ---
 
