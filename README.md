@@ -1,11 +1,12 @@
-## 👋 Hi there
+## 👋 Hi there, I'm Garen
 
-I'm a 3rd year Electrical Engineering student at Toronto Metropolitan University with a strong interest in .....
+I'm a third-year Electrical Engineering student at Toronto Metropolitan University with a strong interest in Digital Electronics, Coding, Power Systems, and PCB Design. 
+
+
 
 ## 🔧 Current Projects
-- **ESP32 Power Monitor** – A home-built power consumption logger using ESP32 and analog sensors.
-- **Wi-Fi Sniffer (in progress)** – Monitoring Wi-Fi traffic to explore signal analysis and security use-cases.
-- **Arduino LED Controller** – My first microcontroller project to programmatically control LED patterns.
+- **ESP32 Power Monitor** – A home-built power consumption logger using ESP32 and a CT sensor.
+- **Power Supply PCB Board** – Working on designing a power supply PCB board from scratch on Altium ECAD software.
 
 See all my projects in the [Repositories](https://github.com/yourusername?tab=repositories) tab.
 
