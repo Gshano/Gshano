@@ -2,10 +2,8 @@
 
 I'm a third-year Electrical Engineering student at Toronto Metropolitan University with a strong interest in Digital Electronics, Coding, Power Systems, and PCB Design. 
 
-
-
 ## 🔧 Current Projects
-- **ESP32 Power Monitor** – A home-built power consumption logger using ESP32 and a CT sensor.
+- **ESP32 Power Monitor** – A Power Consumption Logger Using ESP32 & CT sensor.
 - **Power Supply PCB Board** – Working on designing a power supply PCB board from scratch on Altium ECAD software.
 
 See all my projects in the [Repositories](https://github.com/Gshano?tab=repositories) tab.
