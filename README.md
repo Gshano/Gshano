@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 I'm Garen, and I'm currently a third-year Electrical Engineering student at Toronto Metropolitan University. I have a strong interest in Digital Electronics, Coding, Power Systems, and PCB Design. 
 
