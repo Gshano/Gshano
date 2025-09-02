@@ -8,8 +8,6 @@ I'm Garen, and I'm currently a third-year Electrical Engineering student at Toro
 
 See all my projects in the [Repositories](https://github.com/Gshano?tab=repositories) tab.
 
-### 📫 Contact Information
+### 📫 Contact Information 
 - 📧 garenshanoian30@gmail.com
 - 🌐 https://www.linkedin.com/in/garen-shanoian-8222b6278/
-  
-
